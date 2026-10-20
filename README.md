@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Hamdi
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hamadiazizi08&color=brightgreen" alt="Profile Views" />
+
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamadiazizi08&show_icons=true&theme=radical)
 
 I am an **Information Technology** graduate and a passionate Software Developer based in Tanzania. I love building secure web applications, exploring Linux systems, and solving real-world problems through code.
 
@@ -21,7 +23,7 @@ I am an **Information Technology** graduate and a passionate Software Developer 
 ---
 
 ### 📈 GitHub Stats:
-![Hamdi GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Aziz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamadiazizi08&show_icons=true&theme=radical)
 
 ---
 
